@@ -34,6 +34,10 @@ rsync -r /run/user/1000/gvfs/mtp:host=A-gold_BV9500Plus_BV9500PEEA0029410/Espace
 ```
 Disable developper mode
 
+3. View backup
+
+Use https://www.synctech.com.au/sms-backup-restore/view-backup/
+
 TRICKS: Check the Downloads directory
 
 ## IPhone
