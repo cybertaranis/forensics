@@ -37,6 +37,7 @@ Disable developper mode
 3. View backup
 
 Use https://www.synctech.com.au/sms-backup-restore/view-backup/
+or offline: https://mattj.io/sms-backup-reader/
 
 TRICKS: Check the Downloads directory
 
