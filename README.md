@@ -49,4 +49,5 @@ TODO Clear space on MacBook
 
 ### Extract text messages and call log
 
-`TouchCopy` TODO Buy LICENCE
+- `TouchCopy` TODO Buy LICENCE
+- https://pilabor.com/blog/2022/01/access-and-recover-files-from-an-iphone-on-linux/
