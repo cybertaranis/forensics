@@ -43,6 +43,10 @@ TRICKS: Check the Downloads directory
 
 ## IPhone
 
+### Perform a iPhone backup through `Finder`
+
+TODO Clear space on MacBook
+
 ### Extract text messages and call log
 
 `TouchCopy` TODO Buy LICENCE
